@@ -2591,6 +2591,7 @@ MonoBehaviour:
   _mainMenuPanel: {fileID: 1341512488}
   _network: {fileID: 0}
   _textIP: {fileID: 14837368}
+  _connectPanel: {fileID: 1494817774}
 --- !u!1 &1521230922
 GameObject:
   m_ObjectHideFlags: 0

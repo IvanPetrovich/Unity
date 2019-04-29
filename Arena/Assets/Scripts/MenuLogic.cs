@@ -12,6 +12,7 @@ public class MenuLogic : NetworkBehaviour
 	private Network _network;
 	[SerializeField]
 	private Text _textIP;
+	[SerializeField]
 	private GameObject _connectPanel;
 
 	void Awake(){
