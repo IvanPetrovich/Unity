@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 using System;
 
-public abstract class Country : MonoBehaviour{
+public class Country : MonoBehaviour{
 
 	[SerializeField]
 	protected String countryName;
